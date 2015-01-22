@@ -290,7 +290,7 @@ body > section {
 }
 
 #recent-works .col-xs-12.col-sm-6.col-md-4 {
-    padding: 0;
+    padding: 10px;
 }
 
 #recent-works {
